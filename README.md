@@ -19,10 +19,12 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/rygLdXcJlqYqQbaUr0/giphy-downsized-large.gif" width="300" height="300" align="center"/>
 -->
 
+<h1 align="center"> I'm Ismael M. </h1>
+
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="300" align="right"/>
 
-___
-- 🌱 I’m currently learning Docker :whale:
+
+- 🌱 I’m currently learning Azure and Docker :whale:
 - 💬 Ask me about __Python and Django__ :snake:.
 - 📫 How to reach me: ismael_mda@outlook.com
 - ⚡ Fun fact: ...
