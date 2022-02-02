@@ -26,15 +26,24 @@ DOCKER:
 
 -->
 
-<h1 align="center"> I'm Ismael M. </h1>
+<h1 align="center"> I'm Ismael Madalena A. </h1>
 
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" height="250" align="right"/>
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="300" align="right"/>
 
 <div>
   <ul>
     <li> 🌱 I’m currently learning Azure and Docker :whale:. </li>
     <li> 💬 Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
-    <li> 📫 How to reach me: ismael_mda@outlook.com </li>
+    <li> 📫 How to reach me:
+      <p>
+        <img align="center" src="https://am3pap007files.storage.live.com/y4mVCxx_7ZWkPbyIT19FMs-xJhZJ46Aim-33u2SYEwO7aq7ieiJYp-MyyMEnGkRrss1QIU_8fYY0nO_0MMchet4nrIoXVaRfHOUJ4pKoz6xUQIvGqUsWI5PTN99B2K7J7yNtLOlbgVDyGdBth3TByjYE-AGTWga_FYcCgvbANjENY6gRbRy2iI79WBQ_nLQWQAH?width=1200&height=1200&cropmode=none" width="20" height="20" />
+        ismael_mda@outlook.com 
+      </p>
+      <p>
+        <img align="center" src="https://am3pap007files.storage.live.com/y4mMSz9B7JCfMJAotl7RhGUtCY-HTn7zamFv9yev7eX2U6rVBdFesHEx35cGZrrTRI9VQsREOmnw2I_BXdIemGVJdyji9DcNdSCfnGmASYBRWJRLnr-yHdlCJiYRW22njgZugP5SVvCmcpYxv9uM8D575S_Q30qbQcadNESt1hQAYkmCLl1fpc8qWbk62uEd82x?width=410&height=416&cropmode=none" width="20" height="20" />
+        <a href="https://www.linkedin.com/in/ismael-madalena/">ismael-madalena</a>
+      </p>
+    </li>
     <li> ⚡ Fun fact: ... </li> 
   </ul>
 </div>
