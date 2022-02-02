@@ -21,17 +21,20 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I'm Ismael M. </h1>
 
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="300" align="right"/>
+<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="250" height="250" align="right"/>
 
+<div>
+  <ul>
+    <li> 🌱 I’m currently learning Azure and Docker :whale: </li>
+    <li> 💬 Ask me about __Python and Django__ :snake:. </li>
+    <li> 📫 How to reach me: ismael_mda@outlook.com </li>
+    <li> ⚡ Fun fact: ... </li> 
+  </ul>
+</div>
 
-- 🌱 I’m currently learning Azure and Docker :whale:
-- 💬 Ask me about __Python and Django__ :snake:.
-- 📫 How to reach me: ismael_mda@outlook.com
-- ⚡ Fun fact: ...
 ___
 
 <br>
-
 
 <br>
 
