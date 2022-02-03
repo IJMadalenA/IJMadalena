@@ -50,7 +50,7 @@ ___
 <br>
 <br>
 
-## __Languages, frameworks and libraries with I have worked:__
+## __Languages, frameworks and libraries that I have worked with:__
 
 <br>
 
