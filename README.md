@@ -15,6 +15,7 @@ https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif
 https://giphy.com/stickers/transparent-emoji-emojivid-QaZ0Yu5CbHu4HpBcyZ
 https://giphy.com/stickers/transparent-emoji-emojivid-h8CYgLGGiBbA32rcOC
 https://giphy.com/stickers/emoji-chart-graph-IzLejEn5juzsLN4AqX
+<img align="center" HSPACE="5" src="https://www.eventslooped.com/posts/img/sexy-programming-languages-to-learn-2020/gopher-dance.gif" width="70" height="70" />
 
 AZURE:
 <img src="https://am3pap007files.storage.live.com/y4m36khvbMH-QVohzbxeiVuGllfg8t47UEu1GRGYWj9vgp2nteS7eKqtii1FtQppvNwbY4nfNLGADI8iDyYnLMkl9aVVO8VRcWrBh0CXssMtaQyhsxN8WZGzHOsgmIunvs7ff6kvqnX0t0dcwymK-BmrGxNuf2L_SDizgcxO2zEcn7kJqXHJlcsaIivdtGse0rR?width=1200&height=936&cropmode=none" width="1200" height="936" />
