@@ -65,13 +65,12 @@ ___
 </p>
 
 <p align="center">
-  <img align="center" src="https://am3pap007files.storage.live.com/y4m3JbUke79HNiCJmw92zGHEDLCOYumlbVaio3E2aHrsfs3F9AiX4EHfn0cEkDNvlwK6hKLWIhAbxTvcwukGdODp3Iq_MjoizlPO2FnlKa9Q9-6pWiAUzwKp9UF5dhOlsAN2JPHCGU_sqk0ZuqpLj1CHLznEmj6lMLFW4yrjXMsSYyPJn7w7e5rYuXS5o3d4L-h?width=256&height=192&cropmode=none" width="80" height="60" />
+  <img align="center" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" />
   <img align="center" src="https://am3pap007files.storage.live.com/y4mb05zGcGMDwzTTGHEW_72zW5fBXVQ8cRzwFq9nYyDOrZE-pgn7rGBHAb4uFiktgtjUsVbF2g7pKQ6A7Ny_tRUfbrnLoFSePMONBxZS8S_nrOSPcZoWkK9vi-Y4HugiBY0x5r6eq-OSz9uumFgWo1wWxDqLGVtVaBOFkP62YYDVwZCyMIT8PcZYX2pm6iFqaot?width=1280&height=1280&cropmode=none" width="60" height="60" />
   <img align="center" HSPACE="10" src="https://am3pap007files.storage.live.com/y4mIZoNeQh2_XBOAm-iOZbAM6KulDMGb1t0FYHPR9l_Z8ZPP9BbQsLU4E7WLdo8tBnZPbX_Tw-nxdh7tQPYSa0d7rK4P7q3N-ntdphePhDdmtuj6FwbSv-RyGI785ZI4HTakOTGypSi77C5SXdkJyS95K2IbPx4gRX-9PTZgpE16b3pQ_fXVQnQ2TiPI8nfnuQH?width=234&height=249&cropmode=none" width="60" height="60" />
   <img align="center" HSPACE="5" src="https://am3pap007files.storage.live.com/y4mBrVpiyY4TsDler1vVSik-ITatlVyaCF4RVLUX2fpCAY_Xorf1sXRsq7CXfd4pPCbyl1u5EDfg7YedtiraE8HJPv5hJEJ7FAPxSXxXPFyiFIq4dh5OaJxzfIrspth4d1SmSrQGkImX4EPyGI86vJAicdexyevFHJBcSKCUZXG8teJo_hcjMbKNvWiuSR7mOJa?width=2400&height=2400&cropmode=none" width="60" height="60" />
     <img align="center" src="https://am3pap007files.storage.live.com/y4mARXzjIaa8lQXPU9Qw62g1jeBd-LZMMwxJ-WmeEAyzjwFwK1Cg2AIVeik029Tfhy0rOPGNFueODgwAxKDL6x_qyNwTR588tGNmA1dsObFzL9vfzyKh_vAzg_5p4tTO2iaGZUKfRKfToe5WlbIA6vK2RJ8p_un5YkmJneiQGRXyp55X-TqIOxJ126aODdzEPku?width=1024&height=1365&cropmode=none" width="45" height="60" />
-    <img align="center" src="https://am3pap007files.storage.live.com/y4mHTB4Ai5_vQjBP1e2KCfAdtmUGPAcSk6alBoz2DmG9REHS1b_0Qze7T2mQyRhDuaqb51C5xGkNbibuPvwL9Lx2zp-Vl2SAKmtu8FHCKlaAdRCXH2FG25lp1GJm1PlJvV4ULE-NNzb8Er39SOOypwEmujjuYeY5ErADeVjxBtzn5RwVYmM4oSn3z95eexk7xXi?width=263&height=200&cropmode=none" width="79" height="60" />
-  <img align="center" src="https://am3pap007files.storage.live.com/y4m0kCRsiVMBsB0ztoCnQpZqsPS-XYo4DDWIvESbI0s72qaZdZHwR0U-V0yuTE6dauzCDHOz9NS5P4FIBo8Nt1csKokYlOL20d2J1fay5ifS2kxeH6oDq_HzjjLIQ2ju1ZlnX0y_kzXxKcnR3e7Lat4ucdXn50joOoU4_uVnynS9S5Rj-K6R1Kjn2gOt1pBq4Lw?width=1024&height=1024&cropmode=none" width="90" height="60" />
+  <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="70" height="60" />
 </p>
 
 <br>
