@@ -20,9 +20,6 @@ https://giphy.com/stickers/emoji-chart-graph-IzLejEn5juzsLN4AqX
 AZURE:
 <img src="https://am3pap007files.storage.live.com/y4m36khvbMH-QVohzbxeiVuGllfg8t47UEu1GRGYWj9vgp2nteS7eKqtii1FtQppvNwbY4nfNLGADI8iDyYnLMkl9aVVO8VRcWrBh0CXssMtaQyhsxN8WZGzHOsgmIunvs7ff6kvqnX0t0dcwymK-BmrGxNuf2L_SDizgcxO2zEcn7kJqXHJlcsaIivdtGse0rR?width=1200&height=936&cropmode=none" width="1200" height="936" />
 
-DOCKER:
-<img src="https://am3pap007files.storage.live.com/y4meeXJs4gJyi4BO5M5Jdqxqob-H7qq27HhJB3wzW3ELn_3eNIjTHKihKQS196nG24P6cgIiRgVSTDTnDtLkk3lmGG9Luvt-0tA8xKXvT7ciFyByW5-UCNG2VQgmEZt0KoF9g7Ng6U95iaI86bAHIodCXt8SOpVqXRnTbvyENX9qDQHRuIohjg2KeeQIJjfFR0K?width=400&height=400&cropmode=none" width="400" height="400" />
-
 -->
 
 ## Hello and welcome visitor <img align="center" src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="30" height="30" />
@@ -56,7 +53,7 @@ ___
 <br>
 
 <p align="center">
-  <img src="https://am3pap007files.storage.live.com/y4m5zPyCludqQiFLiindzh0gq7eflJR6554ISbHBZYdphvuxUzZV2hLJHa-OZsMPGCbAo-oQVO1qTZM4jV5aX5GDWxJacHxQlSjsUtkhtMNpHA5kzWT9tzReTkTXs28kzfvypDHCU1QlGDGEvotenXcvW_ExD2ISp0lF0tyb9d5sOTUhDX5HoOMQH6p1EJSY0yh?width=660&height=660&cropmode=none" width="120" height="120" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="120" height="120" />
 </p>
 
 <p align="center">
@@ -65,12 +62,10 @@ ___
 </p>
 
 <p align="center">
-  <img align="center" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" />
-  <img align="center" src="https://am3pap007files.storage.live.com/y4mb05zGcGMDwzTTGHEW_72zW5fBXVQ8cRzwFq9nYyDOrZE-pgn7rGBHAb4uFiktgtjUsVbF2g7pKQ6A7Ny_tRUfbrnLoFSePMONBxZS8S_nrOSPcZoWkK9vi-Y4HugiBY0x5r6eq-OSz9uumFgWo1wWxDqLGVtVaBOFkP62YYDVwZCyMIT8PcZYX2pm6iFqaot?width=1280&height=1280&cropmode=none" width="60" height="60" />
-  <img align="center" HSPACE="10" src="https://am3pap007files.storage.live.com/y4mIZoNeQh2_XBOAm-iOZbAM6KulDMGb1t0FYHPR9l_Z8ZPP9BbQsLU4E7WLdo8tBnZPbX_Tw-nxdh7tQPYSa0d7rK4P7q3N-ntdphePhDdmtuj6FwbSv-RyGI785ZI4HTakOTGypSi77C5SXdkJyS95K2IbPx4gRX-9PTZgpE16b3pQ_fXVQnQ2TiPI8nfnuQH?width=234&height=249&cropmode=none" width="60" height="60" />
-  <img align="center" HSPACE="5" src="https://am3pap007files.storage.live.com/y4mBrVpiyY4TsDler1vVSik-ITatlVyaCF4RVLUX2fpCAY_Xorf1sXRsq7CXfd4pPCbyl1u5EDfg7YedtiraE8HJPv5hJEJ7FAPxSXxXPFyiFIq4dh5OaJxzfIrspth4d1SmSrQGkImX4EPyGI86vJAicdexyevFHJBcSKCUZXG8teJo_hcjMbKNvWiuSR7mOJa?width=2400&height=2400&cropmode=none" width="60" height="60" />
-    <img align="center" src="https://am3pap007files.storage.live.com/y4mARXzjIaa8lQXPU9Qw62g1jeBd-LZMMwxJ-WmeEAyzjwFwK1Cg2AIVeik029Tfhy0rOPGNFueODgwAxKDL6x_qyNwTR588tGNmA1dsObFzL9vfzyKh_vAzg_5p4tTO2iaGZUKfRKfToe5WlbIA6vK2RJ8p_un5YkmJneiQGRXyp55X-TqIOxJ126aODdzEPku?width=1024&height=1365&cropmode=none" width="45" height="60" />
-  <img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="70" height="60" />
+  <img align="center" HSPACE="5" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" />
+  <img align="center" HSPACE="5" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="70" height="70" />
+  <img align="center" HSPACE="5" src="https://am3pap007files.storage.live.com/y4mBrVpiyY4TsDler1vVSik-ITatlVyaCF4RVLUX2fpCAY_Xorf1sXRsq7CXfd4pPCbyl1u5EDfg7YedtiraE8HJPv5hJEJ7FAPxSXxXPFyiFIq4dh5OaJxzfIrspth4d1SmSrQGkImX4EPyGI86vJAicdexyevFHJBcSKCUZXG8teJo_hcjMbKNvWiuSR7mOJa?width=2400&height=2400&cropmode=none" width="70" height="60" />
+  <img align="center" HSPACE="5" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="70" height="60" />
 </p>
 
 <br>
@@ -78,9 +73,6 @@ ___
 ### And this is my natural environment:
 
 <p align="center">
-  <img align="center" src="https://am3pap007files.storage.live.com/y4mKf_ISYHW-AgTWeq0hJamsrcL2epK2I6AJ0s1PgRRcT31vSyvEKHZGWWjx-iiN008hNeGJzSDBQsdplFeD5BYsn75X0BjEmjzxXikm2gn02vhwIbFn9NeLvVWgV4zf-41phiD9My5xGd-g6qpR9HZ0QD8m3i9zOU4XyM7LZo_7O7AqHVba3-6Ng38zRbfQEyx?width=510&height=513&cropmode=none" width="50" height="50" />
-  <img align="center" HSPACE="5" src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="70" height="70" />
-  <img align="center" src="https://am3pap007files.storage.live.com/y4mbCuHvkFzyO8i9Uf8_LHkGzz9ftGUt_HgoFEqtGcaz-IWoQG6QOTxuXTgwvtTY_6Ao0XWsUkPnkOnjoMNDrgWNcz-1Z5xzSHHJjfP9ZEV2z0aZ8gd8ccv-cC0fvF2U5upO_LNwE0vleGylmpaoU8JJ5BrsUdrOegbk5z7AgRovHLByVHCTZmFc42iNnE6TnCP?width=175&height=204&cropmode=none" width="50" height="58" />
-</p>
+  <img align="center" HSPACE="10" src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="100" height="100" />
 
 ___
