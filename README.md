@@ -58,7 +58,7 @@ ___
 
 <p align="center">
   <img src="https://am3pap007files.storage.live.com/y4mDsCmYS_z8VvAarZR3_Kuf0eDf1aEcITo95HseHOHOWViMAq8Jaux5toQjlYk_Kar77f8gkgrgDyCy6KDDUKWBKpI6h6AMnuWZL6bFNgIkav_N8kfpdc-yOm-Ic8fp4wrZSu269GpNdq2FzV9PgqO-YOInsOI0ZdVHD4iDeIMBsVpe1oQaVkuEtCoO-t-jAhN?width=1300&height=574&cropmode=none" width="209" height="90" />
-  <img src="https://am3pap007files.storage.live.com/y4m1CVnQPwLYq13Pj83tA0_qzBnMwgP7YmP6AgU5PIAJdnHoOrz3TdB2cfKWjxW-9P0Uct-xVvaUGY7cJF4WUxIs76owxldZFks8-U3103LrhOoygIEZ6V25HF9Mqio3iVEM47WJM4GxmGV-vyRmW_jO-BT9d3r2Q8tMH2hlD81aJDDI5mQRxq1LE25u2FNaInh?width=201&height=256&cropmode=none" width="70" height="90" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" width="70" height="90" />
 </p>
 
 <p align="center">
