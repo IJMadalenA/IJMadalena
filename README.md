@@ -30,7 +30,7 @@ AZURE:
 
 <div>
   <ul>
-    <li> <img align="center" src="https://media.giphy.com/media/JmIJQRb9RnqxvHgvzf/giphy.gif" width="20" height="20" /> I’m currently learning <b>Azure</b> and <b>Docker</b> 🐋. </li>
+    <li> <img align="center" src="https://media.giphy.com/media/JmIJQRb9RnqxvHgvzf/giphy.gif" width="20" height="20" /> I’m currently learning <b>Docker</b> 🐋. </li>
     <li> <img align="center" src="https://media.giphy.com/media/fYNWQh9V9CpcHPxiBc/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
     <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
       <ul>
