@@ -30,8 +30,8 @@ AZURE:
 
 <div>
   <ul>
-    <li> <img align="center" src="https://media.giphy.com/media/JmIJQRb9RnqxvHgvzf/giphy.gif" width="20" height="20" /> I’m currently learning <b>Docker</b> 🐋. </li>
-    <li> <img align="center" src="https://media.giphy.com/media/fYNWQh9V9CpcHPxiBc/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
+    <li> <img align="center" src="https://media.giphy.com/media/JmIJQRb9RnqxvHgvzf/giphy.gif" width="20" height="20" /> I’m currently learning <b>Kubernetes</b> 🐳 and <b>Go</b> 🐰. </li>
+    <li> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxMGFjMTA3NTA5NTZiZGZhODY5MWUxODg3ODU4MzdhOWZmMjQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Za38Y5tjGnsvrzRDZa/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
     <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
       <ul>
         <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mVCxx_7ZWkPbyIT19FMs-xJhZJ46Aim-33u2SYEwO7aq7ieiJYp-MyyMEnGkRrss1QIU_8fYY0nO_0MMchet4nrIoXVaRfHOUJ4pKoz6xUQIvGqUsWI5PTN99B2K7J7yNtLOlbgVDyGdBth3TByjYE-AGTWga_FYcCgvbANjENY6gRbRy2iI79WBQ_nLQWQAH?width=1200&height=1200&cropmode=none" width="20" height="20" />
