@@ -1,78 +1,81 @@
-<!--
-**IsMadalena/IsMadalena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/assets/cv_icon.png" align="right" width="128px" />
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+# Ismael J. Madalena A.'s CV
 
-<img src="https://media.giphy.com/media/heIX5HfWgEYlW/giphy.gif" width="300" height="300" align="center"/>
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" height="300" align="center"/>
-<img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="300" height="300" align="center"/>
-<img src="https://media.giphy.com/media/rygLdXcJlqYqQbaUr0/giphy-downsized-large.gif" width="300" height="300" align="center"/>
-https://media.giphy.com/media/Kfl09udXYhbjajJwEt/giphy.gif
-https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif
-https://giphy.com/stickers/transparent-emoji-emojivid-QaZ0Yu5CbHu4HpBcyZ
-https://giphy.com/stickers/transparent-emoji-emojivid-h8CYgLGGiBbA32rcOC
-https://giphy.com/stickers/emoji-chart-graph-IzLejEn5juzsLN4AqX
-<img align="center" HSPACE="5" src="https://www.eventslooped.com/posts/img/sexy-programming-languages-to-learn-2020/gopher-dance.gif" width="70" height="70" />
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/565a628b-bba3-4948-a0ee-91b1af8c8e82).
+<br/>
+<br/>
 
-AZURE:
-<img src="https://am3pap007files.storage.live.com/y4m36khvbMH-QVohzbxeiVuGllfg8t47UEu1GRGYWj9vgp2nteS7eKqtii1FtQppvNwbY4nfNLGADI8iDyYnLMkl9aVVO8VRcWrBh0CXssMtaQyhsxN8WZGzHOsgmIunvs7ff6kvqnX0t0dcwymK-BmrGxNuf2L_SDizgcxO2zEcn7kJqXHJlcsaIivdtGse0rR?width=1200&height=936&cropmode=none" width="1200" height="936" />
-
--->
-
-## Hello and welcome visitor <img align="center" src="https://media.giphy.com/media/dalJ0CpF7hwmN1nZXe/giphy.gif" width="30" height="30" />
-
-<h1 align="center"> I'm Ismael Madalena A. </h1>
-
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300" height="300" align="right"/>
-
-<div>
-  <ul>
-    <li> <img align="center" src="https://media.giphy.com/media/JmIJQRb9RnqxvHgvzf/giphy.gif" width="20" height="20" /> I’m currently learning <b>Kubernetes</b> 🐳 and <b>Go</b> 🐰. </li>
-    <li> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxMGFjMTA3NTA5NTZiZGZhODY5MWUxODg3ODU4MzdhOWZmMjQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Za38Y5tjGnsvrzRDZa/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
-    <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
-      <ul>
-        <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mVCxx_7ZWkPbyIT19FMs-xJhZJ46Aim-33u2SYEwO7aq7ieiJYp-MyyMEnGkRrss1QIU_8fYY0nO_0MMchet4nrIoXVaRfHOUJ4pKoz6xUQIvGqUsWI5PTN99B2K7J7yNtLOlbgVDyGdBth3TByjYE-AGTWga_FYcCgvbANjENY6gRbRy2iI79WBQ_nLQWQAH?width=1200&height=1200&cropmode=none" width="20" height="20" />
-         <a href="mailto:IJMadalena@outlook.com"> IJMadalena@outlook.com </a> </li>
-        <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mMSz9B7JCfMJAotl7RhGUtCY-HTn7zamFv9yev7eX2U6rVBdFesHEx35cGZrrTRI9VQsREOmnw2I_BXdIemGVJdyji9DcNdSCfnGmASYBRWJRLnr-yHdlCJiYRW22njgZugP5SVvCmcpYxv9uM8D575S_Q30qbQcadNESt1hQAYkmCLl1fpc8qWbk62uEd82x?width=410&height=416&cropmode=none" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">IJMadalena</a> </li>
-      </ul>
-    </li>
-    <li> <img align="center" src="https://media.giphy.com/media/QuVhBJhDRG3Wr5vIOr/giphy.gif" width="20" height="20" /> Fun fact: ... </li> 
-  </ul>
+<div align='center'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2023-12-01 09:14 UTC&color=brightgreen&style=for-the-badge'>
+  <a href='https://github.com/getmanfred/mac'>
+    <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
+  </a>
+  <a href='#%EF%B8%8F-license'>
+    <img src='https://img.shields.io/badge/GDPR%20Compliant-40479B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAG7AAABuwE67OPiAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAThQTFRF////QUebQUebQUebQUebQkibQ0maREmaRUqaRUuZRkuZR0yZSE2YSU6YSk6YTFCXTlKWVFeUVVeUVliUV1mTV1mUWFqTWVqTW1ySXF2SXV6RXl+RYGCQYGCRYWGQamiNbWuMb2yLcG2LcW6Lc2+KdXGJdnKJeHSIeXSIe3aHfHeHfXeHfXiGfnmGf3mGg3yFg32Eh4CDiICDioKCjoaAj4aAkYh/lYt+npJ7oJR7ppl4ppl5qZx3q513rp92r6B1sKF1sqN0s6N0tKR0tqZzt6Zzuahyuqlyvatxv61wwK5vw7FuxbJuxrNty7dszLdsz7pr0Ltq1L5p2sNm2sNn3MVm3cZl4Mhk4Mhl48pk5cxj5sxj6M5i6tBh7NFh7tNg8dZf89de9dle9tpd+t1c+95b/N9b/+FaZsCVrgAAAAR0Uk5TAKH3+IOyXJkAAAGHSURBVFjD7dbZUsIwGAVgwFPbWgUEFQQXFgFRWcQNFVRAqLsimwsqspj3fwPvEMfWJnR0BoZz90+bL03apDEYRhllOGI0jemIyWiAzgwAYNEJOC76BjYA4PDlo7TUrViAhdib3w7wdbILwO5/iy2wAcEGqTgBcyawB8BZIY0g4xDKtXRPla6VGYfA+ThvT+nlfBw9ILpUVJdIBYgRWVLqjpPkiEgDyIQ8TisAs0+EyDQA3+qEFEew3mnxNIAt7g4rAmvuuG0QVyM7EIr/cnteE+CPSg/HUyrNw6ckH9V6Ag8hq2r9S7ekOKkFrFydRVVHcJ280ZwDARBUAeHntb95jWqTOEUJLKdUgNQyFZCrN+9sCs3nis16jgYwt4jyHhwjLTMN4MhubSsCO1tZxz8uJiHzrcwIjEDivH3i+fq+T9rnCTbAWiWFcQDiJgCMF0jVyvhfKB3IAIL7z7EZAPJBiWOcAwkSgMA7ubR0qz52JOH1PqlrS5uY5xYH/oykCeg+aI4yynDkEwtqUWMkn99xAAAAAElFTkSuQmCC'>
+  </a>
 </div>
+<br/>
+<br/>
 
-___
+- [Folder Structure](#-folder-structure)
+- [How can you sync your Manfred profile with your own repo](#-how-can-you-sync-your-manfred-profile-with-your-own-repo)
+- [How can you update your CV in Manfred](#%E2%93%9C%EF%B8%8F-how-can-you-update-your-cv-in-manfred)
+- [How can you update your CV in GitHub](#octocat-how-can-you-update-your-cv-in-github)
+- [Contact and Troubleshooting](#-contact-and-troubleshooting)
+- [License](#%EF%B8%8F-license)
 
-<br>
-<br>
+## 📁 Folder Structure
 
-## __Languages, frameworks and libraries that I have worked with:__
+The structure of this repo is pretty simple. You have all metadata and config files on the base directory. There, you will find more files and folders, but just two are directly related and relevant to my MAC, `/cv` and `/assets`:
 
-<br>
+    .
+    │
+    ├── CV
+    │    ├── MAC[_instance1][_language1].json
+    │    ├── ...
+    │    └── MAC[_instanceN][_languageN].json
+    │
+    ├── assets
+    │
+    └── ...
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="120" height="120" />
-</p>
+- [/cv](/cv), where you can find multiple versions of my CV (eg. `MAC.json` or `MAC_dev_ES.json`).
+- [/assets](/assets), where I store assets related with my CVs (eg. pictures, certifications, etc.).
 
-<p align="center">
-  <img src="https://am3pap007files.storage.live.com/y4mDsCmYS_z8VvAarZR3_Kuf0eDf1aEcITo95HseHOHOWViMAq8Jaux5toQjlYk_Kar77f8gkgrgDyCy6KDDUKWBKpI6h6AMnuWZL6bFNgIkav_N8kfpdc-yOm-Ic8fp4wrZSu269GpNdq2FzV9PgqO-YOInsOI0ZdVHD4iDeIMBsVpe1oQaVkuEtCoO-t-jAhN?width=1300&height=574&cropmode=none" width="209" height="90" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" width="70" height="90" />
-</p>
+## 🔗 How can you sync your Manfred profile with your own repo
 
-<p align="center">
-  <img align="center" HSPACE="5" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" />
-  <img align="center" HSPACE="5" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="70" height="70" />
-  <img align="center" HSPACE="5" src="https://am3pap007files.storage.live.com/y4mBrVpiyY4TsDler1vVSik-ITatlVyaCF4RVLUX2fpCAY_Xorf1sXRsq7CXfd4pPCbyl1u5EDfg7YedtiraE8HJPv5hJEJ7FAPxSXxXPFyiFIq4dh5OaJxzfIrspth4d1SmSrQGkImX4EPyGI86vJAicdexyevFHJBcSKCUZXG8teJo_hcjMbKNvWiuSR7mOJa?width=2400&height=2400&cropmode=none" width="70" height="60" />
-  <img align="center" HSPACE="5" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="70" height="60" />
-</p>
+1. First, you have to [create an empty repository](https://github.com/new) (public or private) in your GitHub Account.
+2. If you have a profile at Manfred ([getmanfred.com](https://www.getmanfred.com/)), you can configure the synchronization within `Settings/Data Management`.
 
-<br>
+<img alt="getmanfred.com" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_sync.png?raw=true" width="600">
 
-### And this is my natural environment:
+3. You will be asked to select one repository to install the [Manfred GitHub Connector App](https://github.com/apps/manfred-github-connector). Just follow the instructions.
 
-<p align="center">
-  <img align="center" HSPACE="10" src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" width="100" height="100" />
+<img alt="https://github.com/apps/manfred-github-connector" src="https://github.com/getmanfred/mac/blob/master/assets/sync/github_manfred_connector.png?raw=true" width="600">
 
-___
+4. **You are done!** So easy, so powerful.
+
+## Ⓜ️ How can you update your CV in Manfred
+
+Just navigate to [your profile](https://getmanfred.com/profile) and update whatever you want. If you have synchronized your profile with your GitHub repo, **it will be updated automagically with a new version of your MAC**, including the latest updates.
+
+<img alt="Magic" src="https://media4.giphy.com/media/ujUdrdpX7Ok5W/giphy.gif?cid=ecf05e471avdapgosxv5t0j0kovk1rr4vq59nlnapfuebgph&rid=giphy.gif&ct=g">
+
+## :octocat: How can you update your CV in GitHub
+
+Just edit your MAC in the `/CV` folder in the repository page or directly in your machine, commit and push the changes. [Your profile in Manfred](<(https://getmanfred.com/profile)>) will be updated too. **If you have configured Manfred to synchronize your data in other platforms, they will be updated too!**
+
+## 🪠 Contact and Troubleshooting
+
+> :warning: Remember that your CV has to be [a valid MAC JSON file](https://github.com/getmanfred/mac) to be synchronized !!!
+
+For example, there are 4 "study types" ("officialDegree", "certification", "unaccredited" and "selfTraining") if you include a new type like "kindergarten", your CV could be a valid JSON file but not a MAC and therefore, **your data won't be synchronized and we will send you an email with detailed info on the error**.
+
+You can find the full MAC definition available [here](https://github.com/getmanfred/mac/blob/master/schema/schema.json). If you have any question, please, don't hesitate to reach us at [support@getmanfred.com](mailto:support@getmanfred.com), ping us on [Twitter](https://twitter.com/getmanfred) or [fill a support ticket](https://getmanfred.freshdesk.com/). We'd love to help you! 🤓
+
+## ⚖️ License
+
+The CVs included in this repository contain my personal and professional data, and they can't be automatically processed without my explicit permission according to the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation).
+
+The [MAC format](https://github.com/getmanfred/mac) is free and open-source software licensed and distributed under the [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0 International).
