@@ -34,8 +34,6 @@ AZURE:
     <li> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxMGFjMTA3NTA5NTZiZGZhODY5MWUxODg3ODU4MzdhOWZmMjQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Za38Y5tjGnsvrzRDZa/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
     <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
       <ul>
-        <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mVCxx_7ZWkPbyIT19FMs-xJhZJ46Aim-33u2SYEwO7aq7ieiJYp-MyyMEnGkRrss1QIU_8fYY0nO_0MMchet4nrIoXVaRfHOUJ4pKoz6xUQIvGqUsWI5PTN99B2K7J7yNtLOlbgVDyGdBth3TByjYE-AGTWga_FYcCgvbANjENY6gRbRy2iI79WBQ_nLQWQAH?width=1200&height=1200&cropmode=none" width="20" height="20" />
-         <a href="mailto:IJMadalena@outlook.com"> IJMadalena@outlook.com </a> </li>
         <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mMSz9B7JCfMJAotl7RhGUtCY-HTn7zamFv9yev7eX2U6rVBdFesHEx35cGZrrTRI9VQsREOmnw2I_BXdIemGVJdyji9DcNdSCfnGmASYBRWJRLnr-yHdlCJiYRW22njgZugP5SVvCmcpYxv9uM8D575S_Q30qbQcadNESt1hQAYkmCLl1fpc8qWbk62uEd82x?width=410&height=416&cropmode=none" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">IJMadalena</a> </li>
       </ul>
     </li>
