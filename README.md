@@ -62,10 +62,9 @@ ___
 <p align="center">
   <img align="center" HSPACE="5" src="https://user-images.githubusercontent.com/2575745/67964810-4d9a2980-fbd7-11e9-8cf7-661ded187ee6.png" width="65" height="65" />
   <img align="center" HSPACE="5" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png" width="70" height="70" />
-  <img align="center" HSPACE="5" src="https://am3pap007files.storage.live.com/y4mBrVpiyY4TsDler1vVSik-ITatlVyaCF4RVLUX2fpCAY_Xorf1sXRsq7CXfd4pPCbyl1u5EDfg7YedtiraE8HJPv5hJEJ7FAPxSXxXPFyiFIq4dh5OaJxzfIrspth4d1SmSrQGkImX4EPyGI86vJAicdexyevFHJBcSKCUZXG8teJo_hcjMbKNvWiuSR7mOJa?width=2400&height=2400&cropmode=none" width="70" height="60" />
+  <img align="center" HSPACE="5" src="https://github.com/user-attachments/assets/48350f5f-7860-4fc7-8d5b-73f7c470c56f" width="70" height="60" />
   <img align="center" HSPACE="5" src="https://cdn.freebiesupply.com/logos/large/2x/postgresql-logo-png-transparent.png" width="70" height="60" />
 </p>
-
 <br>
 
 ### And this is my natural environment:
