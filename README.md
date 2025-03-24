@@ -34,7 +34,7 @@ AZURE:
     <li> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxMGFjMTA3NTA5NTZiZGZhODY5MWUxODg3ODU4MzdhOWZmMjQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Za38Y5tjGnsvrzRDZa/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
     <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
       <ul>
-        <li> <img align="center" src="https://am3pap007files.storage.live.com/y4mMSz9B7JCfMJAotl7RhGUtCY-HTn7zamFv9yev7eX2U6rVBdFesHEx35cGZrrTRI9VQsREOmnw2I_BXdIemGVJdyji9DcNdSCfnGmASYBRWJRLnr-yHdlCJiYRW22njgZugP5SVvCmcpYxv9uM8D575S_Q30qbQcadNESt1hQAYkmCLl1fpc8qWbk62uEd82x?width=410&height=416&cropmode=none" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">IJMadalenA</a> </li>
+        <li> <img align="center" src="https://github.com/user-attachments/assets/8453aa90-761a-4102-8a2a-173427687665" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">IJMadalenA</a> </li>
       </ul>
     </li>
     <li> <img align="center" src="https://media.giphy.com/media/QuVhBJhDRG3Wr5vIOr/giphy.gif" width="20" height="20" /> Fun fact: ... </li> 
@@ -55,7 +55,7 @@ ___
 </p>
 
 <p align="center">
-  <img src="https://am3pap007files.storage.live.com/y4mDsCmYS_z8VvAarZR3_Kuf0eDf1aEcITo95HseHOHOWViMAq8Jaux5toQjlYk_Kar77f8gkgrgDyCy6KDDUKWBKpI6h6AMnuWZL6bFNgIkav_N8kfpdc-yOm-Ic8fp4wrZSu269GpNdq2FzV9PgqO-YOInsOI0ZdVHD4iDeIMBsVpe1oQaVkuEtCoO-t-jAhN?width=1300&height=574&cropmode=none" width="209" height="90" />
+  <img src="https://www.django-rest-framework.org/img/logo.png" width="209" height="90" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/django-logo-png-transparent.png" width="70" height="90" />
 </p>
 
