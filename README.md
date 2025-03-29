@@ -34,10 +34,11 @@ AZURE:
     <li> <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWYxMGFjMTA3NTA5NTZiZGZhODY5MWUxODg3ODU4MzdhOWZmMjQ3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Za38Y5tjGnsvrzRDZa/giphy.gif" width="20" height="20" /> Ask me about <b>Python</b> and <b>Django</b> :snake:. </li>
     <li> <img align="center" src="https://media.giphy.com/media/m7dLILmScZoGjiO2Nw/giphy.gif" width="20" height="20" /> How to reach me?
       <ul>
-        <li> <img align="center" src="https://github.com/user-attachments/assets/8453aa90-761a-4102-8a2a-173427687665" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">IJMadalenA</a> </li>
+        <li> <img align="center" src="https://media.giphy.com/media/QuVhBJhDRG3Wr5vIOr/giphy.gif" width="20" height="20" /> <a href="https://ijmadalena.com">My Web.</a></li>
+        <li> <img align="center" src="https://github.com/user-attachments/assets/8453aa90-761a-4102-8a2a-173427687665" width="20" height="20" /> <a href="https://www.linkedin.com/in/ijmadalena/">My LinkedIn.</a> </li>
       </ul>
     </li>
-    <li> <img align="center" src="https://media.giphy.com/media/QuVhBJhDRG3Wr5vIOr/giphy.gif" width="20" height="20" /> Fun fact: ... </li> 
+    <li> <img align="center" src="https://media.giphy.com/media/QuVhBJhDRG3Wr5vIOr/giphy.gif" width="20" height="20" />My free time is spent playing guitar 🎸, exercising 💪 and reading everything I can get my hands on 📚.</li> 
   </ul>
 </div>
 
